@@ -1,0 +1,11 @@
+encounter_id,patient_id,encounter_date,encounter_type,department,diagnosis_code,physician_id,duration_min,disposition
+ENC-2001,PAT-001,2024-01-10,inpatient,Cardiology,I25.10,DR-101,45,admitted
+ENC-2002,PAT-002,2024-01-12,emergency,Emergency,S72.001A,DR-102,120,admitted
+ENC-2003,PAT-003,2024-01-14,outpatient,Dermatology,L20.9,DR-103,20,discharged
+ENC-2004,PAT-001,2024-01-20,outpatient,Cardiology,I25.10,DR-101,30,discharged
+ENC-2005,PAT-005,2024-01-20,inpatient,Obstetrics,O80,DR-104,180,admitted
+ENC-2006,PAT-004,2024-01-18,inpatient,Oncology,C34.90,DR-101,60,admitted
+ENC-2007,PAT-006,2024-02-01,emergency,Emergency,J18.9,DR-102,90,admitted
+ENC-2008,PAT-007,2024-02-05,inpatient,Orthopedics,M17.11,DR-105,40,admitted
+ENC-2009,PAT-008,2024-02-10,outpatient,Neurology,G30.9,DR-103,25,discharged
+ENC-2010,PAT-009,2024-02-15,outpatient,General,Z00.00,DR-104,15,discharged

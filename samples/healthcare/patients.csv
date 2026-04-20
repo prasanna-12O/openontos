@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,dob,gender,blood_type,insurance_provider,primary_physician_id,admitted_date
+PAT-001,Sarah,Thompson,1985-03-22,F,A+,BlueCross,DR-101,2024-01-10
+PAT-002,Michael,Brown,1972-11-08,M,O-,Aetna,DR-102,2024-01-12
+PAT-003,Linda,Garcia,1990-07-15,F,B+,UnitedHealth,DR-103,
+PAT-004,Robert,Wilson,1965-01-30,M,,Medicare,DR-101,2024-01-18
+PAT-005,Emily,Davis,1998-09-12,F,AB+,BlueCross,DR-104,2024-01-20
+PAT-006,James,Lee,1980-05-25,M,A-,,DR-102,2024-02-01
+PAT-007,Maria,Rodriguez,1955-12-03,F,O+,Medicare,DR-105,2024-02-05
+PAT-008,William,Clark,1943-08-17,M,B-,Aetna,DR-103,2024-02-10
+PAT-009,Anna,Patel,2001-04-09,F,A+,UnitedHealth,,
+PAT-010,David,Martinez,1988-06-28,M,O+,BlueCross,DR-104,2024-02-20

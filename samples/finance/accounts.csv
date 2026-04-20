@@ -1,0 +1,11 @@
+account_id,customer_name,account_type,open_date,balance,currency,branch_id,status,risk_rating
+ACC-001,Acme Corp,business_checking,2020-06-15,245000.00,USD,BR-10,active,low
+ACC-002,Jane Smith,personal_savings,2021-03-22,18500.50,USD,BR-12,active,low
+ACC-003,GlobalTech Inc,business_checking,2019-11-01,1250000.00,USD,BR-10,active,medium
+ACC-004,Tom Baker,personal_checking,2022-01-10,3200.75,USD,BR-15,active,low
+ACC-005,Maria Gonzalez,personal_savings,2023-05-18,52000.00,EUR,BR-20,active,low
+ACC-006,Zenith LLC,business_savings,2018-09-30,890000.00,USD,BR-10,dormant,high
+ACC-007,Li Wei,personal_checking,2023-08-05,7800.25,USD,BR-12,active,low
+ACC-008,Northwind Ltd,business_checking,2021-07-14,,GBP,BR-25,active,medium
+ACC-009,Sara Johansson,personal_savings,2022-12-01,15000.00,SEK,BR-30,closed,
+ACC-010,Delta Partners,business_checking,2020-02-28,430000.00,USD,BR-10,active,low

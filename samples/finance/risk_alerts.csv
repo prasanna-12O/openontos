@@ -1,0 +1,6 @@
+alert_id,account_id,txn_id,alert_date,alert_type,severity,description,status,assigned_to
+ALR-001,ACC-003,TXN-5004,2024-01-08,large_transfer,high,Wire transfer to offshore entity exceeds threshold,open,analyst_1
+ALR-002,ACC-003,TXN-5009,2024-01-20,unknown_counterparty,critical,Large transfer to unverified entity,investigating,analyst_2
+ALR-003,ACC-006,,2024-01-15,dormant_activity,medium,Transaction on dormant account,resolved,analyst_1
+ALR-004,ACC-004,TXN-5005,2024-01-10,velocity,low,First deposit after 3 months inactivity,dismissed,analyst_3
+ALR-005,ACC-001,TXN-5010,2024-01-25,spending_spike,medium,Infrastructure spend 40% above average,open,analyst_1

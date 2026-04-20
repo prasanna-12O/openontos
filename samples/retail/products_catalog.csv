@@ -1,0 +1,9 @@
+sku,product_name,department,category,brand,unit_cost,retail_price,margin_pct,season,is_active
+SKU-118,Cotton Basic Tee,Apparel,Tops,BasicsLine,8.50,24.99,66.0,all_season,true
+SKU-200,Denim Slim Jeans,Apparel,Bottoms,UrbanEdge,18.00,49.99,64.0,all_season,true
+SKU-305,Leather Crossbody Bag,Accessories,Bags,LuxCraft,42.00,129.00,67.4,all_season,true
+SKU-410,Running Shoes Pro,Footwear,Athletic,SpeedRun,95.00,299.00,68.2,spring_summer,true
+SKU-520,Winter Parka Down,Outerwear,Coats,NorthPeak,180.00,599.00,69.9,fall_winter,true
+SKU-615,Silk Scarf Print,Accessories,Scarves,LuxCraft,15.00,59.99,75.0,fall_winter,true
+SKU-720,Yoga Leggings,Apparel,Activewear,FlexFit,12.00,44.99,73.3,all_season,true
+SKU-830,Sunglasses Aviator,Accessories,Eyewear,VisionCo,22.00,89.99,75.5,spring_summer,false

@@ -1,0 +1,9 @@
+store_id,store_name,region,city,state,country,format,sqft,open_date,manager_id
+STR-001,Downtown Flagship,Northeast,New York,NY,US,flagship,28000,2015-06-01,MGR-01
+STR-002,Mall of Suburbia,Northeast,Edison,NJ,US,standard,8500,2018-03-15,MGR-02
+STR-003,West Coast Hub,West,Los Angeles,CA,US,flagship,22000,2016-09-10,MGR-03
+STR-004,Lakeside Outlet,Midwest,Chicago,IL,US,outlet,6000,2020-01-20,MGR-04
+STR-005,Southern Express,South,Atlanta,GA,US,express,3200,2022-07-01,MGR-05
+STR-006,Pacific Heights,West,San Francisco,CA,US,standard,9500,2019-11-12,MGR-06
+STR-007,Central Plaza,Midwest,Minneapolis,MN,US,standard,7800,2021-04-08,MGR-07
+STR-008,Harbor Point,Northeast,Boston,MA,US,express,3800,2023-02-14,

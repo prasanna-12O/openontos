@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,signup_date,country,tier,lifetime_value
+C001,Alice,Wang,alice.wang@example.com,2023-01-15,US,Gold,4520.00
+C002,Bob,Martinez,bob.martinez@example.com,2023-02-20,MX,Silver,1230.50
+C003,Chloe,Dupont,chloe.dupont@example.com,2023-03-10,FR,Bronze,310.00
+C004,David,Kim,david.kim@example.com,2023-04-05,KR,Gold,5890.75
+C005,Elena,Rossi,,2023-05-18,IT,Silver,980.25
+C006,Frank,Johnson,frank.j@example.com,,US,Bronze,150.00
+C007,Grace,Chen,grace.chen@example.com,2023-07-22,SG,Gold,7200.00
+C008,Hiro,Tanaka,hiro.t@example.com,2023-08-01,JP,,2340.60
+C009,Ines,Silva,ines.silva@example.com,2023-09-14,BR,Silver,
+C010,James,O'Brien,james.ob@example.com,2023-10-30,IE,Bronze,420.00

@@ -1,0 +1,11 @@
+txn_id,account_id,txn_date,txn_type,amount,currency,counterparty,category,channel,is_flagged
+TXN-5001,ACC-001,2024-01-03,debit,12500.00,USD,Vendor A,payroll,wire,false
+TXN-5002,ACC-001,2024-01-05,credit,85000.00,USD,Client X,revenue,ach,false
+TXN-5003,ACC-002,2024-01-06,debit,250.00,USD,Amazon,shopping,card,false
+TXN-5004,ACC-003,2024-01-08,debit,450000.00,USD,Offshore Ltd,consulting,wire,true
+TXN-5005,ACC-004,2024-01-10,credit,3200.00,USD,Employer Inc,salary,ach,false
+TXN-5006,ACC-005,2024-01-12,debit,1200.00,EUR,Lufthansa,travel,card,false
+TXN-5007,ACC-006,2024-01-15,credit,50.00,USD,Interest,interest,system,false
+TXN-5008,ACC-007,2024-01-18,debit,89.99,USD,Netflix,subscription,card,false
+TXN-5009,ACC-003,2024-01-20,debit,320000.00,USD,Unknown Entity,transfer,wire,true
+TXN-5010,ACC-001,2024-01-25,debit,8900.00,USD,AWS,infrastructure,card,false

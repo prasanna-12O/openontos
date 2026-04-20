@@ -1,0 +1,11 @@
+reading_id,equipment_id,sensor_type,timestamp,value,unit,threshold_min,threshold_max,alert_triggered
+SEN-001,EQ-LINE1-A,temperature,2024-01-10 06:15,72.3,celsius,60,85,false
+SEN-002,EQ-LINE1-A,vibration,2024-01-10 06:15,2.1,mm/s,0,5,false
+SEN-003,EQ-LINE2-B,temperature,2024-01-10 06:15,88.7,celsius,60,85,true
+SEN-004,EQ-LINE2-B,pressure,2024-01-10 06:15,14.2,psi,10,20,false
+SEN-005,EQ-LINE1-A,temperature,2024-01-10 08:30,74.1,celsius,60,85,false
+SEN-006,EQ-LINE3-C,vibration,2024-01-10 08:30,6.8,mm/s,0,5,true
+SEN-007,EQ-LINE1-A,temperature,2024-01-10 12:00,83.9,celsius,60,85,false
+SEN-008,EQ-LINE2-B,temperature,2024-01-10 12:00,79.5,celsius,60,85,false
+SEN-009,EQ-LINE3-C,pressure,2024-01-10 12:00,,psi,10,20,false
+SEN-010,EQ-LINE1-A,vibration,2024-01-10 14:00,4.9,mm/s,0,5,false

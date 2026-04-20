@@ -1,0 +1,9 @@
+material_id,material_name,category,warehouse_id,quantity_on_hand,unit,reorder_point,lead_time_days,supplier,last_receipt_date
+MAT-001,Steel Sheet 2mm,raw_material,WH-01,1200,kg,500,14,SteelCo,2024-01-05
+MAT-002,Aluminum Rod 10mm,raw_material,WH-01,340,kg,200,21,MetalPro,2023-12-20
+MAT-003,Bearing Assembly,component,WH-02,850,units,300,7,PartsCorp,2024-01-08
+MAT-004,Electric Motor 5HP,component,WH-02,45,units,20,30,MotorWorld,2023-11-15
+MAT-005,Lubricant ISO 68,consumable,WH-03,120,liters,50,5,ChemSupply,2024-01-10
+MAT-006,Welding Wire 1.2mm,consumable,WH-03,80,kg,100,3,WeldCo,2024-01-02
+MAT-007,Circuit Board v3,component,WH-02,0,units,100,45,TechParts,
+MAT-008,Paint - Industrial Blue,consumable,WH-03,200,liters,75,7,CoatingsInc,2024-01-09

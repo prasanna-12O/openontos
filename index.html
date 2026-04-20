@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Preconnect to font origins to shorten the critical request chain -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Load Google Fonts asynchronously to avoid render-blocking and improve FCP -->
+    <link
+      rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700;800&display=swap"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700;800&display=swap"
+      />
+    </noscript>
+
+    <!-- TODO: Set the document title to the name of your application -->
+    <title>OpenOntos - AI Data Engineering Workspace</title>
+    <meta name="description" content="Open-source agentic AI app for data engineers">
+    <meta name="author" content="Lovable" />
+
+    <!-- TODO: Update og:title to match your application name -->
+    
+    
+    <meta property="og:type" content="website" />
+    
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@Lovable" />
+    
+    <meta property="og:title" content="OpenOntos - AI Data Engineering Workspace">
+  <meta name="twitter:title" content="OpenOntos - AI Data Engineering Workspace">
+  <meta property="og:description" content="Open-source agentic AI app for data engineers">
+  <meta name="twitter:description" content="Open-source agentic AI app for data engineers">
+</head>
+
+  <body>
+    <div id="root">
+      <!-- Inline LCP placeholder: paints immediately while the JS bundle loads -->
+      <div style="display:flex;align-items:center;justify-content:center;height:100vh;background:hsl(222 32% 7%);color:hsl(210 20% 92%);font-family:Inter,system-ui,-apple-system,sans-serif;">
+        <div style="text-align:center;">
+          <div style="font-size:18px;font-weight:700;letter-spacing:-0.01em;">OpenOntos</div>
+          <div style="font-size:11px;opacity:0.6;margin-top:4px;font-family:'JetBrains Mono',ui-monospace,monospace;letter-spacing:0.08em;text-transform:uppercase;">Data Engineering AI</div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

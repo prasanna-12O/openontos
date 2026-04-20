@@ -1,0 +1,11 @@
+sale_id,store_id,sku,sale_date,quantity,unit_price,total_amount,payment_method,customer_id,loyalty_member
+SL-10001,STR-001,SKU-200,2024-01-02,2,49.99,99.98,credit_card,CUST-881,true
+SL-10002,STR-001,SKU-305,2024-01-02,1,129.00,129.00,apple_pay,CUST-220,true
+SL-10003,STR-003,SKU-200,2024-01-03,3,49.99,149.97,debit_card,CUST-445,false
+SL-10004,STR-004,SKU-118,2024-01-03,1,24.99,24.99,cash,,false
+SL-10005,STR-002,SKU-410,2024-01-04,1,299.00,299.00,credit_card,CUST-112,true
+SL-10006,STR-005,SKU-200,2024-01-05,5,49.99,249.95,credit_card,CUST-667,true
+SL-10007,STR-001,SKU-118,2024-01-05,2,24.99,49.98,cash,CUST-903,false
+SL-10008,STR-006,SKU-305,2024-01-06,1,129.00,129.00,google_pay,CUST-334,true
+SL-10009,STR-003,SKU-520,2024-01-07,1,599.00,599.00,credit_card,CUST-445,false
+SL-10010,STR-007,SKU-410,2024-01-08,2,299.00,598.00,debit_card,,true

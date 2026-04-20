@@ -1,0 +1,11 @@
+product_id,name,category,subcategory,price,cost,stock_qty,supplier_id,weight_kg
+P001,Wireless Mouse,Electronics,Peripherals,29.99,12.50,340,SUP-01,0.15
+P002,Ergonomic Keyboard,Electronics,Peripherals,79.99,35.00,120,SUP-01,0.85
+P003,USB-C Hub,Electronics,Accessories,45.00,18.00,200,SUP-02,0.12
+P004,Standing Desk Mat,Office,Furniture,55.00,22.00,85,SUP-03,1.20
+P005,Monitor Arm,Office,Furniture,119.99,52.00,60,SUP-03,3.50
+P006,Noise Cancelling Headphones,Electronics,Audio,199.99,88.00,45,SUP-04,0.30
+P007,Webcam HD,Electronics,Peripherals,69.99,28.00,,SUP-02,0.20
+P008,Desk Lamp LED,Office,Lighting,34.99,14.00,150,SUP-05,0.60
+P009,Cable Management Kit,Office,Accessories,19.99,,500,SUP-05,0.25
+P010,Laptop Stand,Office,Furniture,42.00,17.50,95,SUP-03,1.10
