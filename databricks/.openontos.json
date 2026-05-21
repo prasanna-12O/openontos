@@ -1,0 +1,27 @@
+{
+  "project": {
+    "id": "8fcf155d-7b0b-4fa2-8d91-ce7a16c77218",
+    "name": "databricks"
+  },
+  "generatedAt": "2026-05-21T08:51:52.459Z",
+  "stages": [
+    {
+      "id": "bronze",
+      "label": "Bronze"
+    },
+    {
+      "id": "silver",
+      "label": "Silver"
+    },
+    {
+      "id": "gold",
+      "label": "Gold"
+    }
+  ],
+  "files": [
+    {
+      "path": "databricks/README.md",
+      "bytes": 297
+    }
+  ]
+}
